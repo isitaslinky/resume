@@ -181,10 +181,13 @@ h4 {
 /* -----------------------------Footer */
 
 footer {
+    position: absolute;
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 .cv-pdf i {
